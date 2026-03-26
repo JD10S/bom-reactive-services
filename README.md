@@ -111,10 +111,3 @@ http://localhost:8080
 * Manejo básico de errores con `switchIfEmpty`.
 * Arquitectura preparada para escalar a base de datos reactiva (R2DBC).
 
----
-
-## ✅ Estado del proyecto
-
-✔ Funcional
-✔ Cumple requerimientos de la prueba
-✔ Listo para evaluación técnica
